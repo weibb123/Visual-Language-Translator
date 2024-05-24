@@ -44,7 +44,9 @@ Data Mining: Enables the extraction of valuable data from images for further ana
 
 
 
-## referenced
+## Referenced
+
+Amazing idea of first using GPT-4o! Great work. Shout out to Lan Chu for inspiring this project idea.
 
 https://levelup.gitconnected.com/getting-structured-information-out-of-images-54e297f64c9e
 
