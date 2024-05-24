@@ -7,6 +7,8 @@ Developed a web application to translate text from images using Streamlit and th
 
 Extracted semi-structured data and translated text from images in multiple languages, enhancing accessibility for global users.
 
+Work In Progress. Currently support English and Chinese
+
 ## Demo
 
 https://github.com/weibb123/Visual-Language-Translator/assets/84426364/409126e4-d743-4c86-95ad-303138249f1a
