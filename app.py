@@ -22,8 +22,7 @@ def process_image(client, image, language):
             you will never reply saying that you cannot see the image
             because the image is absolutely and always attached to this
             message. Answer the question asked by the user based on the
-            image provided. Do not give any further explanation. Do not
-            reply saying you can't answer the question. The answer has to be
+            image provided. Do not give any further explanation. The answer has to be
             in a JSON format. If the image provided does not contain the
             necessary data to answer the question, return 'null' for that
             key in the JSON to ensure consistent JSON structure. 
